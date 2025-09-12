@@ -83,11 +83,13 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > _Built with ❤️ by the community. Powered by DeepSeek, Gradio, and ModelScope Studio._
-```
 
+---
 
 ## License
 This project is licensed under the **MIT** License.
 
 ---
 🔗 GitHub Repo: https://github.com/Pranesh-2005/V0-like-website
+
+```
