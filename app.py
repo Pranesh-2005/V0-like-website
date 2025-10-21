@@ -12,7 +12,7 @@ load_dotenv()
 
 # ---------- CONFIG ----------
 API_KEY=os.getenv("KEY")  # <-- set this env var
-MODEL="deepseek/deepseek-r1-0528:free" # change if you have a specific model on OpenRouter
+MODEL="z-ai/glm-4.5-air:free" # change if you have a specific model on OpenRouter
 ENDPOINT ="https://openrouter.ai/api/v1/chat/completions"
 
 
